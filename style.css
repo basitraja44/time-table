@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+table,tr,td{
+    width: 800px;
+    margin: auto;
+    font-size: 40px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #000;
+    border-collapse: collapse;
+    
+ 
+}
+thead{
+    background-color: #000;
+    color: white;
+    
+}
+#friday{
+    justify-content: center;
+    display: flex;
+    font-size: xx-large;
+    text-decoration-line: underline;
+    font-style: oblique;
+    background-color: #000;
+    color: white;
+}
+#Science{
+    justify-content: center;
+    display: flex;
+    font-size: xx-large;
+    text-decoration-line: overline;
+}
+tbody{
+    background-color:palegoldenrod;
+}
+
